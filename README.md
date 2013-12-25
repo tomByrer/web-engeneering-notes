@@ -62,16 +62,20 @@ body 	{-webkit-tap-highlight-color: rgba(165,55,22,1.0);}`@andrewjaustin
 + iOS5+ `-webkit-overflow-scrolling: touch;`, automatic in Android4+{2}
 
 
-
-Colors
+Reference
 ----
+
+### CSS
+
+- [Webkit CSS properties](http://css-infos.net/properties/webkit) all -webkit-* with version appeared
+
+### Colors
 
 - #dd4b39 (221, 75, 57) [Google+](https://developers.google.com/+/branding-guidelines)
 - #3b5998 ( 59, 89,152) [Facebook](https://www.facebookbrand.com/)
 - #55acee ( 85,172,238) [Twitter](https://about.twitter.com/press/brand-assets) most get this wrong
 
-Numbers
-----
+### Numbers
 
 ### Hex
 
