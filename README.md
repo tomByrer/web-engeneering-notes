@@ -3,6 +3,8 @@ Web Engeneering Notes
 
 Mostly "notes to self"
 
+- [repo CONTRIBUTING tips](https://github.com/necolas/issue-guidelines/blob/master/CONTRIBUTING.md#using-the-issue-tracker)
+
 Reduce 'Time To Glass'
 ----
 
@@ -31,7 +33,7 @@ UI
 ### Clearinghouse
 
 + [Effeckt.css](http://h5bp.github.io/Effeckt.css/dist/)
-+ 
+
 
 ### Touch (mobile)
 
@@ -68,6 +70,9 @@ Reference
 ### CSS
 
 - [Webkit CSS properties](http://css-infos.net/properties/webkit) all -webkit-* with version appeared
+- [Normalize.css](http://necolas.github.io/normalize.css/) reset
+- [Necolas ~ idiomatic CSS](https://github.com/necolas/idiomatic-css#table-of-contents)
+
 
 ### Colors
 
