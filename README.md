@@ -97,3 +97,7 @@ May be long proof, or first seen
 {1} [CascadiaJS 2013 - Peter McLachlan](http://www.youtube.com/watch?feature=player_detailpage&v=GtebW-K2D-8#t=755) of Mobify
 {2} [mobify.com/blog](http://www.mobify.com/blog/beginners-guide-to-perceived-performance/)
 {3} [phonegap-tips.com](http://phonegap-tips.com/articles/essential-phonegap-css-webkit-tap-highlight-color.html)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tomByrer/webengeneeringnotes/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
