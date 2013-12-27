@@ -67,11 +67,15 @@ body 	{-webkit-tap-highlight-color: rgba(165,55,22,1.0);}`@andrewjaustin
 Reference
 ----
 
+### Coding Style
+
+- [node-jscs](https://github.com/mdevils/node-jscs)  Enforce JavaScript style, use with jshint
+- [Necolas ~ idiomatic CSS](https://github.com/necolas/idiomatic-css#table-of-contents)  coding style
+
 ### CSS
 
 - [Webkit CSS properties](http://css-infos.net/properties/webkit) all -webkit-* with version appeared
 - [Normalize.css](http://necolas.github.io/normalize.css/) reset
-- [Necolas ~ idiomatic CSS](https://github.com/necolas/idiomatic-css#table-of-contents)
 
 
 ### Colors
