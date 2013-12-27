@@ -20,7 +20,7 @@ Reduce 'Time To Glass'
 
 - sprites > dataURI{1} (as of Dendroid 4.2, iOS6)
 - small enough to cache
- 
+
 ### CSS
 
 - minor improvement in avoiding to use complex child & decendant rules{1}
@@ -71,6 +71,8 @@ Reference
 
 - [node-jscs](https://github.com/mdevils/node-jscs)  Enforce JavaScript style, use with jshint
 - [Necolas ~ idiomatic CSS](https://github.com/necolas/idiomatic-css#table-of-contents)  coding style
+- [Unquoted property names / object keys in JavaScript](http://mathiasbynens.be/notes/javascript-properties)
+- [JavaScript/ECMAScript reserved words](http://mathiasbynens.be/notes/reserved-keywords)
 
 ### CSS
 
