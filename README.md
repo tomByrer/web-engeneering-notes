@@ -69,6 +69,15 @@ Reference
 
 ### Coding Style
 
+#### My thoughts:
+
++ Compleated files should be minified versions, with no `.min.` extention
+  * sources available as `*.src.*` or in `/src`
+  * exceptions: test files, build scripts
+
+
+#### Others' thoughts:
+
 - [node-jscs](https://github.com/mdevils/node-jscs)  Enforce JavaScript style, use with jshint
 - [Necolas ~ idiomatic CSS](https://github.com/necolas/idiomatic-css#table-of-contents)  coding style
 - [Unquoted property names / object keys in JavaScript](http://mathiasbynens.be/notes/javascript-properties)
@@ -98,6 +107,16 @@ Reference
 - 0.7 =
 - 0.75  = bf
 - 0.9 = e5
+
+
+Tools
+----
+
+### Test
+
+#### Design
+
+* http://lab.maltewassermann.com/viewport-resizer/
 
 
 Refrences
