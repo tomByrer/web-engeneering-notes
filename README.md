@@ -103,10 +103,11 @@ Reference
 
 (Used in RGBA alpha values)
 
-- 0.6 = 99
-- 0.7 =
-- 0.75  = bf
-- 0.9 = e5
+- 0.60 = 99
+- 0.70 =
+- 0.75 = bf
+- 0.80 = cc
+- 0.90 = e5
 
 
 Tools
