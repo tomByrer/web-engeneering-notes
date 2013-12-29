@@ -74,7 +74,10 @@ Reference
 + Compleated files should be minified versions, with no `.min.` extention
   * sources available as `*.src.*` or in `/src`
   * exceptions: test files, build scripts
+ 
+##### CSS  
 
++ order of *-[sides] in CSS order, eg: `margin-top: 0;margin-right: 1px;margin-bottom: 2px;margin-left: 3px;`
 
 #### Others' thoughts:
 
