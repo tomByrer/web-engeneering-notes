@@ -91,6 +91,9 @@ Reference
 - [Necolas ~ idiomatic CSS](https://github.com/necolas/idiomatic-css#table-of-contents)  coding style
 - [Unquoted property names / object keys in JavaScript](http://mathiasbynens.be/notes/javascript-properties)
 - [JavaScript/ECMAScript reserved words](http://mathiasbynens.be/notes/reserved-keywords)
++ Conventions:
+  + $ DOM manipulation libraries
+  + _ utility libraries @odytrice
 
 ### CSS
 
