@@ -5,6 +5,12 @@ Mostly "notes to self"
 
 - [repo CONTRIBUTING tips](https://github.com/necolas/issue-guidelines/blob/master/CONTRIBUTING.md#using-the-issue-tracker)
 
+
+Investagate
+----
+
++ [Secure Software Requirements](https://github.com/deekayen/secure_software_requirements/blob/master/questionnaire.md) ~ David Norman
+
 Reduce 'Time To Glass'
 ----
 
