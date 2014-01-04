@@ -125,6 +125,11 @@ Reference
 Tools
 ----
 
+### CLI
+
+* gzipped [byte count](http://stackoverflow.com/questions/9468511/how-can-i-estimate-the-size-of-my-gzipped-script): `gzip -c filename.min.js | wc -c`
+
+
 ### Test
 
 #### Design
