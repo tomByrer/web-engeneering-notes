@@ -14,6 +14,8 @@ Investagate
 Reduce 'Time To Glass'
 ----
 
+[Pageload Mimdmap checklist](http://www.mindmeister.com/333549208/page-load-time-components-and-performance-tips)
+
 ### HTTP
 
 - cookies{1}
