@@ -105,13 +105,18 @@ Reference
 
 ### Colors
 
-- #   hex (        RGB)            CYMK URL
-- #007ee5 (           )  79, 48,  0,  0 [Dropbox](https://www.dropbox.com/branding)
-- #3b5998 ( 59, 89,152)                 [Facebook](https://www.facebookbrand.com/)
-- #dd4b39 (221, 75, 57)                 [Google+](https://developers.google.com/+/branding-guidelines)
-- #55acee ( 85,172,238)                 [Twitter](https://about.twitter.com/press/brand-assets) most get this wrong
+- #   hex(        RGB)            CYMK URL
+- #007ee5(           )  79, 48,  0,  0 [Dropbox](https://www.dropbox.com/branding)
+- #3b5998( 59, 89,152)                 [Facebook](https://www.facebookbrand.com/)
+- #dd4b39(221, 75, 57)                 [Google+](https://developers.google.com/+/branding-guidelines)
+- #55acee( 85,172,238)                 [Twitter](https://about.twitter.com/press/brand-assets) most get this wrong
 
 ### Numbers
+
+### Ratio
+
++ φ ~=1.61803398874989484820458683436563811772030917980576286213=[Golden Ratio](http://mathworld.wolfram.com/GoldenRatio.html)=1/2(1+sqrt(5))
++ Φ ~=0.61803398874989484820458683436563811772030917980576286213=Reciprocal Golden Ratio=(1/2(1+sqrt(5))-1
 
 ### Hex
 
