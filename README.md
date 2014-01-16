@@ -10,6 +10,7 @@ Investagate
 ----
 
 + [Secure Software Requirements](https://github.com/deekayen/secure_software_requirements/blob/master/questionnaire.md) ~ David Norman
++ [List of minimalist frameworks](https://github.com/neiesc/ListOfMinimalistFrameworks#list-of-minimalist-frameworks) ~ Brian Ketelsen
 
 Reduce 'Time To Glass'
 ----
