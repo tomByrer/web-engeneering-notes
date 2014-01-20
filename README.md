@@ -39,6 +39,8 @@ Reduce 'Time To Glass'
 UI
 ----
 
++ [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) by audreyr
+
 ### Clearinghouse
 
 + [Effeckt.css](http://h5bp.github.io/Effeckt.css/dist/)
