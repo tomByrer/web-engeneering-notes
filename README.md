@@ -15,7 +15,9 @@ Investagate
 Reduce 'Time To Glass'
 ----
 
-[Pageload Mimdmap checklist](http://www.mindmeister.com/333549208/page-load-time-components-and-performance-tips)
++ [Pageload Mimdmap checklist](http://www.mindmeister.com/333549208/page-load-time-components-and-performance-tips)
++ [making Trello boards load fast](https://news.ycombinator.com/item?id=7096466): jQuery, reducing DOM writing & CSS
+
 
 ### HTTP
 
