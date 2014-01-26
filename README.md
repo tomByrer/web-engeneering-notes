@@ -4,6 +4,7 @@ Web Engeneering Notes
 Mostly "notes to self"
 
 - [repo CONTRIBUTING tips](https://github.com/necolas/issue-guidelines/blob/master/CONTRIBUTING.md#using-the-issue-tracker)
+- [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) linkfarm
 
 
 Investagate
