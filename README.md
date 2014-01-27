@@ -10,6 +10,7 @@ Mostly "notes to self"
 Investagate
 ----
 
++ [JavaScript: The Right Way](http://www.jstherightway.org/)  JS link farm
 + [Secure Software Requirements](https://github.com/deekayen/secure_software_requirements/blob/master/questionnaire.md) ~ David Norman
 + [List of minimalist frameworks](https://github.com/neiesc/ListOfMinimalistFrameworks#list-of-minimalist-frameworks) ~ Brian Ketelsen
 
@@ -116,6 +117,8 @@ Reference
 - #3b5998( 59, 89,152)                 [Facebook](https://www.facebookbrand.com/)
 - #dd4b39(221, 75, 57)                 [Google+](https://developers.google.com/+/branding-guidelines)
 - #55acee( 85,172,238)                 [Twitter](https://about.twitter.com/press/brand-assets) most get this wrong
+
+- [Alt named colors](https://github.com/mrmrs/colors/blob/master/hex.txt)
 
 ### Numbers
 
