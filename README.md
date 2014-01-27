@@ -118,7 +118,7 @@ Reference
 - #dd4b39(221, 75, 57)                 [Google+](https://developers.google.com/+/branding-guidelines)
 - #55acee( 85,172,238)                 [Twitter](https://about.twitter.com/press/brand-assets) most get this wrong
 
-- [Alt named colors](https://github.com/mrmrs/colors/blob/master/hex.txt)
++ [Alt named colors](https://github.com/mrmrs/colors/blob/master/hex.txt)
 
 ### Numbers
 
