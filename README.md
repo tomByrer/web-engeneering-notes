@@ -112,13 +112,13 @@ Reference
 
 ### Colors
 
+[Alt named colors](https://github.com/mrmrs/colors/blob/master/hex.txt)
+
 - #   hex(        RGB)            CYMK URL
 - #007ee5(           )  79, 48,  0,  0 [Dropbox](https://www.dropbox.com/branding)
 - #3b5998( 59, 89,152)                 [Facebook](https://www.facebookbrand.com/)
 - #dd4b39(221, 75, 57)                 [Google+](https://developers.google.com/+/branding-guidelines)
 - #55acee( 85,172,238)                 [Twitter](https://about.twitter.com/press/brand-assets) most get this wrong
-
-+ [Alt named colors](https://github.com/mrmrs/colors/blob/master/hex.txt)
 
 ### Numbers
 
