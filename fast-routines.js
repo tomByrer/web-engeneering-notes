@@ -26,3 +26,9 @@ while (i !== array.length) {
   i in array ? ++i : array.splice(i, 1);
 }
 ;
+
+
+// https://github.com/w3ctag/promises-guide
+
+
+.
