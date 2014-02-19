@@ -6,7 +6,7 @@ Mostly "notes to self"
 - [repo CONTRIBUTING tips](https://github.com/necolas/issue-guidelines/blob/master/CONTRIBUTING.md#using-the-issue-tracker)
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) linkfarm
 - [free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
-
+- [Design and development standards and best practices](https://github.com/Snugug/north#table-of-contents)
 
 Investagate
 ----
