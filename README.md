@@ -41,6 +41,13 @@ Reduce 'Time To Glass'
 - `* { -webkit-backface-visibility: visible }` kills rendering
 
 
+JavaScript
+----
+
+### ES6
+
+* [Addy's tool list](https://github.com/addyosmani/es6-tools)
+
 UI
 ----
 
