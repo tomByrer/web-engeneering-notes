@@ -173,5 +173,10 @@ May be long proof, or first seen
 {3} [phonegap-tips.com](http://phonegap-tips.com/articles/essential-phonegap-css-webkit-tap-highlight-color.html)
 
 
+ToDo
+----
+[H5BP lazyweb requests](https://github.com/h5bp/lazyweb-requests) - project ideas
+
+
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tomByrer/webengeneeringnotes/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
