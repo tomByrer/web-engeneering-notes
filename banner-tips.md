@@ -17,9 +17,12 @@ Best for all relased minified files, but could be used in all source files.
 
 ### Optimal
 
-` github.com/PROJECT_OWNER/PROJECT_NAME SemVer (c)YYYY LICENCE licence`
+` github.com/PROJECT_OWNER/PROJECT_NAME SemVer (c)YYYY; LICENCE licence`
 
-Combines project name, project owner, & short url into one blob
+Combines project name, project owner, & short url into one blob.
+Dummy example: `github.com/person/project 0.0.1 (c)2014; MIT licence`
+
+
 
 
 
