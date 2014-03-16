@@ -161,6 +161,7 @@ Tools
 #### Design
 
 * http://lab.maltewassermann.com/viewport-resizer/
+* http://www.whatsmybrowser.org/
 
 
 Refrences
