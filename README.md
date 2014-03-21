@@ -51,12 +51,17 @@ JavaScript
 UI
 ----
 
-+ [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) by audreyr
-
 ### Clearinghouse
 
-+ [Effeckt.css](http://h5bp.github.io/Effeckt.css/dist/)
++ [Effeckt.css](http://h5bp.github.io/Effeckt.css/)
++ [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) by audreyr
 
+### How2
+
+#### Fullscreen
+
++ [MDN Using fullscreen mode](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Using_full_screen_mode)
++ [CSS :fullscreen](https://developer.mozilla.org/en-US/docs/Web/CSS/:fullscreen) watch funky prefixing
 
 ### Touch (mobile)
 
