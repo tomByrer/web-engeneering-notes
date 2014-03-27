@@ -22,14 +22,22 @@ Best for all relased minified files, but could be used in all source files.
 
 ### Optimal
 
+#### IF filename.js = projectname(js|'')
+
 `/*! github.com/PROJECT_OWNER/PROJECT_NAME SemVer (c)YYYY; LICENCE licence */`
 
 Combines project name, project owner, & short url into one blob.
 Dummy example: `/*! github.com/owner/project 0.1.0 (c)2014; MIT licence */`
 
+#### ELSE filename != projectname
+
+Add the filename to the start of the comment.  Often you'll see specialized builds distributed with the main file:
+``/*! project-legacy.js github.com/owner/project 0.1.0 (c)2014; MIT licence */`
+``/*! script.node.js github.com/owner/scriptjs 0.7.0 (c)2014; GPL licence */`
+
 #### Alternate examples
 
-* `/*! project 0.1.0 (c)2014 owner-website.com/project | GPL licence */`
+* `/*! thing 0.1.0 (c)2014 owner-website.com/projects/thing | GPL licence */`
 * If said file is not the main file: `/*! github.com/owner/project additional.css 0.1.0 (c)2014; MIT licence */`
 
 ### Extra tips
