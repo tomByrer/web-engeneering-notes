@@ -23,6 +23,7 @@ Best for all relased minified files, but could be used in all source files.
 ### Optimal
 
 #### IF filename.js = projectname(js|'')
+(This is fine for files with `.src` or `.min`.)
 
 `/*! github.com/PROJECT_OWNER/PROJECT_NAME SemVer (c)YYYY @license licence */`
 
