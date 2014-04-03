@@ -7,6 +7,11 @@ Mostly "notes to self"
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) linkfarm
 - [free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 - [Design and development standards and best practices](https://github.com/Snugug/north#table-of-contents)
+ 
+git
+---
+
+- [aaronshaf's git notes](https://github.com/aaronshaf/web-development/blob/master/git.md)
 
 Investagate
 ----
@@ -55,6 +60,7 @@ UI
 
 + [Effeckt.css](http://h5bp.github.io/Effeckt.css/)
 + [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) by audreyr
++ [ARIA usablity notes](https://github.com/aaronshaf/web-development/blob/master/aria.md)
 
 ### How2
 
