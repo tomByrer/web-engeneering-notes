@@ -45,6 +45,12 @@ Add the filename to the start of the comment.  Often you'll see specialized buil
 * use `filename.extention` for the released minified files, & `filename.src.extention` for your pre-minified source files
 
 
+## Find keeper comments
+
+### JavaScript, CSS, HTML [RegEx](http://regexr.com/38mhr)
+```javascript
+/(((\/\/)|(\/\*{1,2}))(!))|(@license|@licence|@preserve)|(<!--!)/g
+```
 
 ## ToDo
 * check HTML minifcation
