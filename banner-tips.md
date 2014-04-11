@@ -47,9 +47,9 @@ Add the filename to the start of the comment.  Often you'll see specialized buil
 
 ## Find keeper comments
 
-### JavaScript, CSS, HTML [RegEx](http://regexr.com/38mhr)
+### JavaScript, CSS, HTML [RegEx](http://regexr.com/38mk0)
 ```javascript
-/(((\/\/)|(\/\*{1,2}))(!))|(@license|@licence|@preserve)|(<!--!)/g
+/\/(\/|(\*\*?))!|(@license|@licence|@preserve)|(<!--!)/g
 ```
 
 ## ToDo
