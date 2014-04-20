@@ -44,10 +44,20 @@ Add the filename to the start of the comment.  Often you'll see specialized buil
 ### Extra tips
 * use `filename.extention` for the released minified files, & `filename.src.extention` for your pre-minified source files
 
+## Scripts
 
-## Find keeper comments
+### Grunt/Lo-Dash
+General banners template ([inspiration](https://github.com/helpers/banners/blob/master/index.js)):
+```JavaScript
+'/*! <%= pkg.name %> v<%= pkg.version %> <%= pkg.homepage %>' (c)' + opts.year + ' ' + opts.author + ', contributors @licence ' + opts.license + ' */\n'
+```
 
-### JavaScript, CSS, HTML [RegEx](http://regexr.com/38mk0)
+* If you output more than one file in a repo, then you need to add in a [filename in your banner](https://github.com/ractivejs/ractive/commit/7f8ee58b1174352a1f9e622abd023fc851bad750)
+
+
+### Find keeper comments
+
+#### JavaScript, CSS, HTML [RegEx](http://regexr.com/38mk0)
 ```javascript
 /\/(\/|(\*\*?))!|(@license|@licence|@preserve)|(<!--!)/g
 ```
@@ -58,10 +68,4 @@ Add the filename to the start of the comment.  Often you'll see specialized buil
 * bad examples
 * merge in [Jon Schlinkert's](https://github.com/jonschlinkert) https://github.com/helpers/banners
 
-### Grunt code
-```JavaScript
-'/*! <%= pkg.name %> v<%= pkg.version %>',
-    '<%= pkg.homepage %>',
-    '(c) ' + opts.year + ' ' + opts.author + ', contributors',
-    'Licensed under the ' + opts.license + '. */\n'
-```
+
