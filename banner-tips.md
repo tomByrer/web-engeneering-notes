@@ -57,10 +57,12 @@ General banners template ([inspiration](https://github.com/helpers/banners/blob/
 
 ### Find keeper comments
 
-#### JavaScript, CSS, HTML [RegEx](http://regexr.com/38mk0)
+#### JavaScript, CSS [RegEx](http://regexr.com/38nul)
 ```javascript
-/\/(\/|(\*\*?))!|(@license|@licence|@preserve)|(<!--!)/g
+/\/(\/|(\*\*?))!|(@[Ll]icen[sc]e|@[Pp]reserve)/g
 ```
+
+#### HTML `<!--!`?
 
 ## ToDo
 * check HTML minifcation
