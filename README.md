@@ -53,6 +53,10 @@ JavaScript
 
 * [Addy's tool list](https://github.com/addyosmani/es6-tools)
 
+### Browser Storage
+
+* [localStorage key namespacing convention](https://github.com/joelarson4/LSNS)
+
 UI
 ----
 
