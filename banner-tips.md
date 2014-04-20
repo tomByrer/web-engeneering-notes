@@ -56,6 +56,7 @@ Add the filename to the start of the comment.  Often you'll see specialized buil
 * check HTML minifcation
 * alt good examples
 * bad examples
+* merge in [Jon Schlinkert's](https://github.com/jonschlinkert) https://github.com/helpers/banners
 
 ### Grunt code
 ```JavaScript
