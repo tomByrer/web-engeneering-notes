@@ -27,7 +27,7 @@ Best for all relased minified files, but could be used in all source files.
 
 `/*! github.com/PROJECT_OWNER/PROJECT_NAME SemVer (c)YYYY @license licence */`
 
-Combines project name, project owner, & short url into one blob.
+Combines project name, project owner, & short url into one blob.<br>
 Dummy example: `/*! github.com/owner/project 0.1.0 (c)2014 @license MIT */`
 
 #### ELSE filename != projectname
