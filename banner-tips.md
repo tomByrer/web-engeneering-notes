@@ -32,13 +32,13 @@ Dummy example: `/*! github.com/owner/project 0.1.0 (c)2014 @license MIT */`
 
 #### ELSE filename != projectname
 
-Add the filename to the start of the comment.  Often you'll see specialized builds distributed with the main file:
+Add the filename to the start of the comment.  Often you'll see specialized builds distributed with the main file:<br>
 `/*! project-legacy.js github.com/owner/project 0.1.0 (c)2014 @license MIT */`<br>
 `/*! script.node.js github.com/owner/scriptjs 0.7.0 (c)2014 @license GPL */`
 
 #### Alternate examples
 
-* `/*! thing 0.1.0 (c)2014 owner-website.com/projects/thing  @license GPL */`
+* `/*! thing 0.1.0 (c)2014 owner-website.com/projects/thing  @license GPL */`</br>
 * If said file is not the main file: `/*! github.com/owner/project additional.css 0.1.0 (c)2014 @license MIT */`
 
 ### Extra tips
