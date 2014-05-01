@@ -124,8 +124,10 @@ Reference
 
 #### Others' thoughts:
 
-- [node-jscs](https://github.com/mdevils/node-jscs)  Enforce JavaScript style, use with jshint
 - [Necolas ~ idiomatic CSS](https://github.com/necolas/idiomatic-css#table-of-contents)  coding style
+
+- [JavaScript/Node Sytle Guide](https://github.com/felixge/node-style-guide)
+- [node-jscs](https://github.com/mdevils/node-jscs)  Enforce JavaScript style, use with jshint
 - [Unquoted property names / object keys in JavaScript](http://mathiasbynens.be/notes/javascript-properties)
 - [JavaScript/ECMAScript reserved words](http://mathiasbynens.be/notes/reserved-keywords)
 + Conventions:
