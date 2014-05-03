@@ -17,6 +17,8 @@ Minimal important information to be found when filename or rest of project is mi
 * version
 * copyright year
 * licence abreviation
+* If you output more than one file in a repo, then you should add in a [filename in your banner](https://github.com/ractivejs/ractive/commit/7f8ee58b1174352a1f9e622abd023fc851bad750).
+	* Reduces confusion
 
 ### Tips
 
@@ -64,9 +66,6 @@ uglify: {
 ...
 ```
 
-
-
-* If you output more than one file in a repo, then you need to add in a [filename in your banner](https://github.com/ractivejs/ractive/commit/7f8ee58b1174352a1f9e622abd023fc851bad750)
 
 
 ### Find keeper comments
