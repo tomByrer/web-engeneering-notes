@@ -58,8 +58,13 @@ Add the filename to the start of the comment.  Often you'll see specialized buil
 ### Grunt/Lo-Dash
 General banners template ([inspiration](https://github.com/helpers/banners/blob/master/index.js)):
 ```JavaScript
-'/*! <%= pkg.name %> v<%= pkg.version %> <%= pkg.homepage %>' (c)' + opts.year + ' ' + opts.author + ', contributors @licence ' + opts.license + ' */\n'
+uglify: {
+  options: {
+    banner: '/*! <%= pkg.name %> v<%= pkg.version %> <%= pkg.homepage %>' (c)' + opts.year + ' ' + opts.author + ', contributors @licence ' + opts.license + ' */\n'
+...
 ```
+
+
 
 * If you output more than one file in a repo, then you need to add in a [filename in your banner](https://github.com/ractivejs/ractive/commit/7f8ee58b1174352a1f9e622abd023fc851bad750)
 
