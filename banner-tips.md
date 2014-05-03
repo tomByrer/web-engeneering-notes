@@ -1,21 +1,30 @@
 ## Mini Banner
-Best for all relased minified files, but could be used in all source files.
 
-* minimal important information to be found when filename or rest of project is missing 
-	* filesnames may be dropped when collated or relayed via CDN.
-* start with `/*!`, have `@license` inside somewhere, & end with `*/`; most minifer tools will keep this text & is universal commenting.
-* small as possible; should respect the spirt of minification
-* don't educate; that what websites are for
+### Reasoning
 
-##### Contains
+Minimal important information to be found when filename or rest of project is missing.
+* filesnames may be dropped when collated/Browserify or relayed via CDN
+* secure (c)
+* help find project/author
+	* easier to find upgrades
+
+### Contains
+* start with `/*!`, have `@license` inside somewhere, & end with `*/`
+	* many minifer tools will keep this text if these flags are present; universal commenting
 * project name
 * project owner
 * short url
 * version
 * copyright year
 * licence abreviation
- 
-##### Not needed
+
+### Tips
+
+* small as possible; should respect the spirt of minification
+* don't educate; that what websites are for
+* mini banner is ideal for all relased minified files, but could be used in all source files
+
+#### Not needed
 * `v` for Version; standardize to [SemVer](http://semver.org/), programmers can figure it out
 * owner & project name more than once; Google can fill in the blanks if something changes
 * anything else that Google can find for you
