@@ -6,10 +6,11 @@ Mostly "notes to self"
 General
 ---
 
+### Repo Setup
+
 - lowercase all filenames & folders; will cause issues if you use any Capitals
+- should provide tested minified files
 - [repo CONTRIBUTING tips](https://github.com/necolas/issue-guidelines/blob/master/CONTRIBUTING.md#using-the-issue-tracker)
-- [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) linkfarm
-- [free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 - [Design and development standards and best practices](https://github.com/Snugug/north#table-of-contents)
  
 git
@@ -20,7 +21,7 @@ git
 Investagate
 ----
 
-+ [JavaScript: The Right Way](http://www.jstherightway.org/)  JS link farm
++ [JavaScript: The Right Way](http://www.jstherightway.org/)  JS linkfarm
 + [Secure Software Requirements](https://github.com/deekayen/secure_software_requirements/blob/master/questionnaire.md) ~ David Norman
 + [List of minimalist frameworks](https://github.com/neiesc/ListOfMinimalistFrameworks#list-of-minimalist-frameworks) ~ Brian Ketelsen
 
@@ -66,6 +67,7 @@ UI
 
 ### Clearinghouse
 
+* [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) linkfarm
 + [Effeckt.css](http://h5bp.github.io/Effeckt.css/)
 + [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) by audreyr
 + [ARIA usablity notes](https://github.com/aaronshaf/web-development/blob/master/aria.md)
@@ -109,6 +111,8 @@ body 	{-webkit-tap-highlight-color: rgba(165,55,22,1.0);}`@andrewjaustin
 
 Reference
 ----
+
+- [free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 
 ### Coding Style
 
@@ -185,8 +189,8 @@ Tools
 
 #### Design
 
-* http://lab.maltewassermann.com/viewport-resizer/
-* http://www.whatsmybrowser.org/
+- http://lab.maltewassermann.com/viewport-resizer/
+- http://www.whatsmybrowser.org/
 
 
 Refrences
