@@ -40,6 +40,7 @@ Reduce 'Time To Glass'
 - sharding/CDN
   - HTTP2.0 may reduce benifit{1}
 - [Browserify](https://github.com/substack/browserify-handbook)
+- [HTML DNS prefetching](https://developer.mozilla.org/en-US/docs/Controlling_DNS_prefetching)
 
 ### Image
 
