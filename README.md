@@ -39,6 +39,7 @@ Reduce 'Time To Glass'
   - cookie-free domain for static assets
 - sharding/CDN
   - HTTP2.0 may reduce benifit{1}
+- [Browserify](https://github.com/substack/browserify-handbook)
 
 ### Image
 
