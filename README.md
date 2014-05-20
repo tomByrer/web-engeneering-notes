@@ -12,6 +12,7 @@ General
 - should provide tested minified files
 - [repo CONTRIBUTING tips](https://github.com/necolas/issue-guidelines/blob/master/CONTRIBUTING.md#using-the-issue-tracker)
 - [Design and development standards and best practices](https://github.com/Snugug/north#table-of-contents)
+- [package.json](http://browsenpm.org/package.json) interactive guide 
  
 git
 ---
