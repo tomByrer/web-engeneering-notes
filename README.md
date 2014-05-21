@@ -19,15 +19,25 @@ git
 
 - [aaronshaf's git notes](https://github.com/aaronshaf/web-development/blob/master/git.md)
 
-Investagate
-----
+Engeneering
+---
+
+### Investagate
+
 
 + [JavaScript: The Right Way](http://www.jstherightway.org/)  JS linkfarm
 + [Secure Software Requirements](https://github.com/deekayen/secure_software_requirements/blob/master/questionnaire.md) ~ David Norman
 + [List of minimalist frameworks](https://github.com/neiesc/ListOfMinimalistFrameworks#list-of-minimalist-frameworks) ~ Brian Ketelsen
 
-Reduce 'Time To Glass'
-----
+### Package Manageers
+
+[UMD (Universal Module Definition)](https://github.com/umdjs/umd#umd-universal-module-definition)
+
+#### Frontend
+
++ [Wil's comparison](https://github.com/wilmoore/frontend-packagers)
+
+### Reduce 'Time To Glass'
 
 + [Pageload Mimdmap checklist](http://www.mindmeister.com/333549208/page-load-time-components-and-performance-tips)
 + [making Trello boards load fast](https://news.ycombinator.com/item?id=7096466): jQuery, reducing DOM writing & CSS
