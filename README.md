@@ -43,7 +43,7 @@ Engeneering
 + [making Trello boards load fast](https://news.ycombinator.com/item?id=7096466): jQuery, reducing DOM writing & CSS
 
 
-### HTTP
+#### HTTP
 
 - cookies{1}
   - below 400byts
@@ -53,19 +53,19 @@ Engeneering
 - [Browserify](https://github.com/substack/browserify-handbook)
 - [HTML DNS prefetching](https://developer.mozilla.org/en-US/docs/Controlling_DNS_prefetching)
 
-### Image
+#### Image
 
 - sprites > dataURI{1} (as of Dendroid 4.2, iOS6)
 - small enough to cache
 
-### CSS
+#### CSS
 
 - minor improvement in avoiding to use complex child & decendant rules{1}
 - `* { -webkit-backface-visibility: visible }` kills rendering
 
 
 JavaScript
-----
+---
 
 ### ES6
 
