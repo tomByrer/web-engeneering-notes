@@ -174,16 +174,21 @@ Reference
 - #dd4b39(221, 75, 57)                 [Google+](https://developers.google.com/+/branding-guidelines)
 - #55acee( 85,172,238)                 [Twitter](https://about.twitter.com/press/brand-assets) most get this wrong
 
+### Font
+
++ Joe Larson's [Useful Unicode resources](http://joewlarson.com/blog/2014/01/01/useful-unicode-resources/)
+
+
 ### Numbers
 
-### Ratio
+##### Ratio
 
 + [Golden Ratio](http://mathworld.wolfram.com/GoldenRatio.html)=1/2(1+sqrt(5))=φ~=1.61803398874989484820458683436563811772030917980576286213
 + Reciprocal Golden Ratio=(1/2(1+sqrt(5))-1=Φ~=0.61803398874989484820458683436563811772030917980576286213
 
-### Hex
+#### Hex
 
-#### %/ratio
+##### %/ratio
 
 (Used in RGBA alpha values)
 
