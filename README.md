@@ -143,6 +143,8 @@ Reference
 
 #### Others' thoughts:
 
+- [TMW-frontend-guidelines
+](https://github.com/tmwagency/TMW-frontend-guidelines/blob/master/Front-End%20development%20guidelines.mdown#section-6)
 - [Necolas ~ idiomatic CSS](https://github.com/necolas/idiomatic-css#table-of-contents)  coding style
 
 - [JavaScript/Node Sytle Guide](https://github.com/felixge/node-style-guide)
