@@ -68,6 +68,7 @@ Engeneering
 
 JavaScript
 ---
++ [SubStack: Use Streams](https://github.com/substack/stream-handbook#why-you-should-use-streams)
 
 ### ES6
 
