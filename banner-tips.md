@@ -3,7 +3,7 @@
 ### Reasoning
 
 Minimal important information to be found when filename or rest of project is missing.
-* filesnames may be dropped when collated/Browserify or relayed via CDN
+* filenames may be dropped when collated (Browserify, Polymer, X-Tag) or relayed via CDN
 * secure (c)
 * help find project/author
 	* easier to find upgrades
