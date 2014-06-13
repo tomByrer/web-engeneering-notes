@@ -146,7 +146,8 @@ Reference
 
 - [TMW-frontend-guidelines
 ](https://github.com/tmwagency/TMW-frontend-guidelines/blob/master/Front-End%20development%20guidelines.mdown#section-6)
-- [Necolas ~ idiomatic CSS](https://github.com/necolas/idiomatic-css#table-of-contents)  coding style
+- [Necolas ~ idiomatic CSS](https://github.com/necolas/idiomatic-css#table-of-contents) coding style
+- [.bc-style-guide{](https://github.com/bevacqua/css#bc-style-guide-) poney-foo
 
 - [JavaScript/Node Sytle Guide](https://github.com/felixge/node-style-guide)
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
