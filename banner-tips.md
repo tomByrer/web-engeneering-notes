@@ -2,11 +2,12 @@
 
 ### Reasoning
 
-Minimal important information to be found when filename or rest of project is missing.
-* filenames may be dropped when collated (Browserify, Polymer, X-Tag) or relayed via CDN
-* secure (c)
-* help find project/author
-	* easier to find upgrades
+* Assume that the filename will be dropped:
+	* web files are often collated (Browserify, Polymer, X-Tag)
+	* relayed via CDN
+* minimal info kept with each file can help:
+	* secure copyright, licence
+	* find project/author for contact, support, upgrades
 
 ### Contains
 * start with `/*!`, have `@license` inside somewhere, & end with `*/`
