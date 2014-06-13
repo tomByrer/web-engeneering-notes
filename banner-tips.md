@@ -3,8 +3,8 @@
 ### Reasoning
 
 * Assume that the filename will be dropped:
-	* web files are often collated (Browserify, Polymer, X-Tag)
-	* relayed via CDN
+	* web files are often collated (Browserify, Polymer, X-Tag, [CDN](https://github.com/jsdelivr/jsdelivr#url-structure))
+	* many other reasons for file renaming
 * minimal info kept with each file can help:
 	* secure copyright, licence
 	* find project/author for contact, support, upgrades
