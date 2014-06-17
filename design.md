@@ -2,6 +2,7 @@
 
 * [Cory Simmons font fallbacks](https://github.com/corysimmons/typographic/blob/master/typographic/_font-stacks.styl)
 * [Common desktop fonts](http://cssfontstack.com/)
+* [Font Stack builder 2011](http://www.erin-lawrence.com/webfonts/)
 
 
 ### Image
