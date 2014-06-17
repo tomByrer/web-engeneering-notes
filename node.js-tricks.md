@@ -9,7 +9,7 @@ Node.js Tricks
 
 ## Test
 
-### (Try before publishing on NPM/Bower](https://medium.com/este-js-framework/38c90e6d9e24)
+### [Try before publishing on NPM/Bower](https://medium.com/este-js-framework/38c90e6d9e24)
 ```js
 cd app
 npm link ../some-node-module
