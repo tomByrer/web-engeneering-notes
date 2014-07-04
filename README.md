@@ -152,6 +152,7 @@ Reference
 - [JavaScript/Node Sytle Guide](https://github.com/felixge/node-style-guide)
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
 - [node-jscs](https://github.com/mdevils/node-jscs)  Enforce JavaScript style, use with jshint
+- [ocss-code-standards](https://github.com/stubbornella/oocss-code-standards)  [stubbornella](http://www.stubbornella.org/content/)'s OOCSS
 - [Unquoted property names / object keys in JavaScript](http://mathiasbynens.be/notes/javascript-properties)
 - [JavaScript/ECMAScript reserved words](http://mathiasbynens.be/notes/reserved-keywords)
 + Conventions:
