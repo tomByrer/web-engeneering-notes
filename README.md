@@ -85,6 +85,7 @@ UI
 ### Clearinghouse
 
 * [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) linkfarm
+* [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) fresh RSS feeds
 + [Effeckt.css](http://h5bp.github.io/Effeckt.css/)
 + [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) by audreyr
 + [ARIA usablity notes](https://github.com/aaronshaf/web-development/blob/master/aria.md)
