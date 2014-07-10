@@ -26,11 +26,13 @@ Engeneering
 
 ### Investagate
 
-
-+ [JavaScript: The Right Way](http://www.jstherightway.org/)  JS linkfarm
 + [Secure Software Requirements](https://github.com/deekayen/secure_software_requirements/blob/master/questionnaire.md) ~ David Norman
 + [List of minimalist frameworks](https://github.com/neiesc/ListOfMinimalistFrameworks#list-of-minimalist-frameworks) ~ Brian Ketelsen
 + [impl.info](http://www.simpl.info/) - minimal examples
+
+#### JS linkfamrs
++ [JavaScript: The Right Way](http://www.jstherightway.org/)
++ [Superhero.js](http://superherojs.com/)  maintaining large JS tips
 
 ### Package Manageers
 
