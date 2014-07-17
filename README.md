@@ -6,7 +6,7 @@ Mostly "notes to self"
 General
 ---
 
-- [https://github.com/sindresorhus/awesome#awesome](sindresorhus/awesome) link farm of link farms
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome#awesome) link farm of link farms
 
 ### Repo Setup
 
