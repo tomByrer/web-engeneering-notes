@@ -6,6 +6,8 @@ Mostly "notes to self"
 General
 ---
 
+- [https://github.com/sindresorhus/awesome#awesome](sindresorhus/awesome) link farm of link farms
+
 ### Repo Setup
 
 - lowercase all filenames & folders; will cause issues if you use any Capitals
