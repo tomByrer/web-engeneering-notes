@@ -95,6 +95,10 @@ UI
 + [ARIA usablity notes](https://github.com/aaronshaf/web-development/blob/master/aria.md)
 + [Web Components Resources](https://gist.github.com/ebidel/6314025)
 
+### Tips
+
+[GoodUI](http://goodui.org/) long list of tips, can subscribe for more
+
 ### How2
 
 #### Fullscreen
@@ -102,11 +106,11 @@ UI
 + [MDN Using fullscreen mode](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Using_full_screen_mode)
 + [CSS :fullscreen](https://developer.mozilla.org/en-US/docs/Web/CSS/:fullscreen) watch funky prefixing
 
-### Touch (mobile)
+#### Touch (mobile)
 
-#### Feedback
+##### Feedback
 
-##### Button
+*Button*
 
 `:active` might not work in mobile:
 + `document.addEventListener("touchstart", function(){}, true);` + `-webkit-tap-highlight-color: rgba(0,0,0,0);`{2}
