@@ -154,6 +154,7 @@ Reference
 
 #### Others' thoughts:
 
++ [Paul Miller's Sytle-guides for many languages](https://github.com/paulmillr/code-style-guides/) linkfarm
 - [TMW-frontend-guidelines
 ](https://github.com/tmwagency/TMW-frontend-guidelines/blob/master/Front-End%20development%20guidelines.mdown#section-6)
 - [Necolas ~ idiomatic CSS](https://github.com/necolas/idiomatic-css#table-of-contents) coding style
