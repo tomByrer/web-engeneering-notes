@@ -6,6 +6,7 @@ Mostly "notes to self"
 General
 ---
 
+- [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) stuff n stuff
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome#awesome) link farm of link farms
 
 ### Repo Setup
