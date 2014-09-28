@@ -34,24 +34,16 @@
 
 ### Optimal
 
-#### IF filename.js = projectname(js|'')
-(This is fine for files with `.src` or `.min`.)
-
-`/*! github.com/PROJECT_OWNER/PROJECT_NAME SemVer (c)YYYY @license licence */`
-
-Combines project name, project owner, & short url into one blob.<br>
-Dummy example: `/*! github.com/owner/project 0.1.0 (c)2014 @license MIT */`
-
-#### ELSE filename != projectname
-
 Add the filename to the start of the comment.  Often you'll see specialized builds distributed with the main file:<br>
-`/*! project-legacy.js github.com/owner/project 0.1.0 (c)2014 @license MIT */`<br>
-`/*! script.node.js github.com/owner/scriptjs 0.7.0 (c)2014 @license GPL */`
+Combines project name, project owner, & short url into one blob.<br>
+The copyright & release abbrivation can remain on same line; more compact.
+`/*! project-legacy.js github.com/owner/project 3.1.0 (c)2014 @license MIT */`<br>
+`/*! script.jquery.js github.com/owner/scriptjs 1.0.0 (c)2014 @license GPL */`
 
 #### Alternate examples
 
 * `/*! thing 0.1.0 (c)2014 owner-website.com/projects/thing  @license GPL */`</br>
-* If said file is not the main file: `/*! github.com/owner/project additional.css 0.1.0 (c)2014 @license MIT */`
+* If copyright is held by different name than repo owner: `/*! thing.jquery.js code.google.com/p/thing.jquery/ 2.0.0 (c)2014 John Author  @license GPL */`
 
 ### Extra tips
 * use `filename.extention` for the released minified files, & `filename.src.extention` for your pre-minified source files
