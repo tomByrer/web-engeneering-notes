@@ -37,13 +37,12 @@
 Add the filename to the start of the comment.  Often you'll see specialized builds distributed with the main file:<br>
 Combines project name, project owner, & short url into one blob.<br>
 The copyright & release abbrivation can remain on same line; more compact.<br>
-`/*! project-legacy.js github.com/owner/project 3.1.0 (c)2014 @license MIT */`<br>
-`/*! script.jquery.js github.com/owner/scriptjs 1.0.0 (c)2014 @license GPL */`
+`/*! project.js github.com/owner/project 3.1.0 (c)2014 @license MIT */`
 
 #### Alternate examples
 
-* `/*! thing 0.1.0 (c)2014 owner-website.com/projects/thing  @license GPL */`</br>
-* If copyright is held by different name than repo owner: `/*! thing.jquery.js code.google.com/p/thing.jquery/ 2.0.0 (c)2014 John Author  @license GPL */`
+* `/*! thing 1.1.0 (c)2014 owner-website.com/projects/thing @license GPL */`</br>
+* If copyright is held by different name than repo owner: `/*! script.jquery.js code.google.com/p/script.jquery/ 2.0.0 (c)2014 John Author  @license GPL */`
 
 ### Extra tips
 * use `filename.extention` for the released minified files, & `filename.src.extention` for your pre-minified source files
