@@ -36,7 +36,7 @@
 
 Add the filename to the start of the comment.  Often you'll see specialized builds distributed with the main file:<br>
 Combines project name, project owner, & short url into one blob.<br>
-The copyright & release abbrivation can remain on same line; more compact.
+The copyright & release abbrivation can remain on same line; more compact.<br>
 `/*! project-legacy.js github.com/owner/project 3.1.0 (c)2014 @license MIT */`<br>
 `/*! script.jquery.js github.com/owner/scriptjs 1.0.0 (c)2014 @license GPL */`
 
