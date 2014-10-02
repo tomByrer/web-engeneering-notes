@@ -178,6 +178,7 @@ Reference
 
 - [Webkit CSS properties](http://css-infos.net/properties/webkit) all -webkit-* with version appeared
 - [Normalize.css](http://necolas.github.io/normalize.css/) reset
+- [CSS Triggers](http://csstriggers.com/)  How to trigger a reflow/redraw
 
 
 ### Colors
