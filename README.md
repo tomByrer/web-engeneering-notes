@@ -195,6 +195,7 @@ Reference
 ### Font
 
 + Joe Larson's [Useful Unicode resources](http://joewlarson.com/blog/2014/01/01/useful-unicode-resources/)
++ [Better @font-face with Load Events](https://dev.opera.com/articles/better-font-face/)
 
 
 ### Numbers
