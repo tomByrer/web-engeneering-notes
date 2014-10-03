@@ -155,6 +155,7 @@ Reference
 ##### CSS  
 
 + order of *-[sides] in CSS order, eg: `margin-top: 0;margin-right: 1px;margin-bottom: 2px;margin-left: 3px;`
++ [CSS Guidelines](http://cssguidelin.es/)
 
 #### Others' thoughts:
 
