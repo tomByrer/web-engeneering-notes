@@ -159,21 +159,26 @@ Reference
 
 #### Others' thoughts:
 
-+ [Paul Miller's Sytle-guides for many languages](https://github.com/paulmillr/code-style-guides/) linkfarm
-- [TMW-frontend-guidelines
-](https://github.com/tmwagency/TMW-frontend-guidelines/blob/master/Front-End%20development%20guidelines.mdown#section-6)
-- [Necolas ~ idiomatic CSS](https://github.com/necolas/idiomatic-css#table-of-contents) coding style
-- [.bc-style-guide{](https://github.com/bevacqua/css#bc-style-guide-) poney-foo
-
+##### JS
++ [Ponyfoo's JS quality guide](http://blog.ponyfoo.com/2014/08/18/javascript-quality-guide)
 - [JavaScript/Node Sytle Guide](https://github.com/felixge/node-style-guide)
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
 - [node-jscs](https://github.com/mdevils/node-jscs)  Enforce JavaScript style, use with jshint
-- [ocss-code-standards](https://github.com/stubbornella/oocss-code-standards)  [stubbornella](http://www.stubbornella.org/content/)'s OOCSS
 - [Unquoted property names / object keys in JavaScript](http://mathiasbynens.be/notes/javascript-properties)
 - [JavaScript/ECMAScript reserved words](http://mathiasbynens.be/notes/reserved-keywords)
 + Conventions:
   + $ DOM manipulation libraries
   + _ utility libraries @odytrice
+
+##### CSS & msc
+
++ [Paul Miller's Sytle-guides for many languages](https://github.com/paulmillr/code-style-guides/) linkfarm
+- [TMW-frontend-guidelines
+](https://github.com/tmwagency/TMW-frontend-guidelines/blob/master/Front-End%20development%20guidelines.mdown#section-6)
+- [Necolas ~ idiomatic CSS](https://github.com/necolas/idiomatic-css#table-of-contents) coding style
+- [.bc-style-guide{](https://github.com/bevacqua/css#bc-style-guide-) poney-foo
+- [ocss-code-standards](https://github.com/stubbornella/oocss-code-standards)  [stubbornella](http://www.stubbornella.org/content/)'s OOCSS
+
 
 ### CSS
 
