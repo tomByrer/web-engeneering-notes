@@ -166,6 +166,8 @@ Reference
 
 #### Others' thoughts:
 
+[@mdo's CodeGuide.io](http://codeguide.co/)
+
 ##### JS
 + [Ponyfoo's JS quality guide](http://blog.ponyfoo.com/2014/08/18/javascript-quality-guide)
 - [JavaScript/Node Sytle Guide](https://github.com/felixge/node-style-guide)
