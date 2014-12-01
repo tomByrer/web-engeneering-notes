@@ -2,12 +2,12 @@
 
 ### Reasoning
 
-* Assume that the filename will be dropped:
-	* web files are often collated (Browserify, Polymer, X-Tag, [CDN](https://github.com/jsdelivr/jsdelivr#url-structure))
-	* many other reasons for file renaming
+* Assume that the filename can be dropped:
+	* web files are often collated (Browserify, Polymer, X-Tag, [CDN](https://github.com/jsdelivr/jsdelivr#url-structure)
 * minimal info kept with each file can help:
 	* secure copyright, licence
-	* find project/author for contact, support, upgrades
+		* clear file for use when handed off to new programmer or buisness owner
+	* find project/author for support, upgrades
 
 ### Contains
 * start with `/*!`, have `@license` inside somewhere, & end with `*/`
@@ -37,15 +37,16 @@
 Add the filename to the start of the comment.  Often you'll see specialized builds distributed with the main file:<br>
 Combines project name, project owner, & short url into one blob.<br>
 The copyright & release abbrivation can remain on same line; more compact.<br>
-`/*! project.js github.com/owner/project 3.1.0 (c)2014 @license MIT */`
+`/*! project.js 1.2.3  (c)2014 Author Name @license MIT */`
 
 #### Alternate examples
 
-* `/*! thing 1.1.0 (c)2014 owner-website.com/projects/thing @license GPL */`</br>
+* `/*! thing v1.1.0  (c)2014 owner-website.com/projects/thing @license GPL */`</br>
 * If copyright is held by different name than repo owner: `/*! script.jquery.js code.google.com/p/script.jquery/ 2.0.0 (c)2014 John Author  @license GPL */`
 
 ### Extra tips
 * use `filename.extention` for the released minified files, & `filename.src.extention` for your pre-minified source files
+* incluse project URL if project is hard to find via web search
 
 ## Scripts
 
@@ -54,7 +55,7 @@ General banners template ([inspiration](https://github.com/helpers/banners/blob/
 ```JavaScript
 uglify: {
   options: {
-    banner: '/*! <%= pkg.name %> v<%= pkg.version %> <%= pkg.homepage %>' (c)' + opts.year + ' ' + opts.author + ', contributors @licence ' + opts.license + ' */\n'
+    banner: '/*! <%= pkg.name %> <%= pkg.version %> <%= pkg.homepage %>' (c)' + opts.year + ' ' + opts.author + ', contributors @licence ' + opts.license + ' */\n'
 ...
 ```
 
@@ -71,7 +72,6 @@ uglify: {
 
 ## ToDo
 * check HTML minifcation
-* alt good examples
 * bad examples
 * merge in [Jon Schlinkert's](https://github.com/jonschlinkert) https://github.com/helpers/banners
 
