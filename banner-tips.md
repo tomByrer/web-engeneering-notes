@@ -21,10 +21,12 @@
 * If you output more than one file in a repo, then you should add in a [filename in your banner](https://github.com/ractivejs/ractive/commit/7f8ee58b1174352a1f9e622abd023fc851bad750).
 	* Reduces confusion
 
-#### Does NOT contain
+#### Should NOT contain
 * items easlily found on the web; developers know how to search ;)
 	* project description
 	* full open source text
+* `v` for Version; standardize to [SemVer](http://semver.org/), programmers can figure it out
+* owner & project name more than once
 
 ### Tips
 
@@ -32,21 +34,13 @@
 * don't educate; that what websites are for
 * mini banner is ideal for all relased minified files, but could be used in all source files
 
-#### Not needed
-* `v` for Version; standardize to [SemVer](http://semver.org/), programmers can figure it out
-* owner & project name more than once; Google can fill in the blanks if something changes
-* anything else that Google can find for you
+### Optimal Example
 
-### Optimal
-
-Add the filename to the start of the comment.  Often you'll see specialized builds distributed with the main file:<br>
-Combines project name, project owner, & short url into one blob.<br>
-The copyright & release abbrivation can remain on same line; more compact.<br>
 `/*! project.js 1.2.3  (c)2014 Author Name @license MIT */`
 
 #### Alternate examples
 
-* `/*! thing v1.1.0  (c)2014 owner-website.com/projects/thing @license GPL */`</br>
+* `/*! project-extra-file.css 1.1.0  (c)2014 owner-website.com/projects/thing @license GPL */`</br>
 * If copyright is held by different name than repo owner: `/*! script.jquery.js code.google.com/p/script.jquery/ 2.0.0 (c)2014 John Author  @license GPL */`
 
 ### Extra tips
