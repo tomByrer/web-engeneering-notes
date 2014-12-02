@@ -14,7 +14,7 @@
 	* many minifer tools will keep this text if these flags are present; universal commenting
 * project name
 * project owner
-* short url as needed, leave out if want to shorten
+* short URL as needed, leave out if want to shorten (can cover project name & owner in URL)
 * version
 * copyright year
 * licence abreviation
@@ -24,7 +24,7 @@
 #### Should NOT contain
 * items easlily found on the web; developers know how to search ;)
 	* project description
-	* full open source text
+	* full licencing text
 * `v` for Version; standardize to [SemVer](http://semver.org/), programmers can figure it out
 * owner & project name more than once
 
