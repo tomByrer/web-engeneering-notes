@@ -22,3 +22,7 @@ bower link
 cd ../app
 bower link my-library
 ```
+
+## Optimize
+
+* [petkaantonov's V8 Optimizationkillers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)
