@@ -169,6 +169,7 @@ Reference
 [@mdo's CodeGuide.io](http://codeguide.co/)
 
 ##### JS
++ [Airbnb JS Style Guide](https://github.com/airbnb/javascript) "mostly reasonable"
 + [Ponyfoo's JS quality guide](http://blog.ponyfoo.com/2014/08/18/javascript-quality-guide)
 - [JavaScript/Node Sytle Guide](https://github.com/felixge/node-style-guide)
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
