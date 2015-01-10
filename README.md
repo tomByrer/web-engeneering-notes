@@ -30,6 +30,10 @@ Engeneering
 [Responsive Emailre Sources](http://responsiveemailresources.com/) HTML email
 [pazguille/offline-first](https://github.com/pazguille/offline-first) linkfarm
 
+### Testing
+
+[Code Review Checklist](http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/) & [Improve Test Coverage](http://blog.fogcreek.com/taming-a-wild-testless-code-beast-4-steps-to-improving-test-coverage/) ~ Fog Creek
+
 ### Investagate
 
 + [Secure Software Requirements](https://github.com/deekayen/secure_software_requirements/blob/master/questionnaire.md) ~ David Norman
