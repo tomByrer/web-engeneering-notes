@@ -6,6 +6,7 @@ Mostly "notes to self"
 General
 ---
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) free *aaS stuff!!
 - [daryllxd/lifelong-learning](https://github.com/daryllxd/lifelong-learning) stuff n stuff
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome#awesome) link farm of link farms
 - [tevko/Resources](https://github.com/tevko/Resources) tools & freebies link farm
