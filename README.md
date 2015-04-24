@@ -114,6 +114,7 @@ UI
 ### Tips
 
 [GoodUI](http://goodui.org/) long list of tips, can subscribe for more
+[IxD Checklist](http://ixdchecklist.com/)  UI todos
 
 ### How2
 
