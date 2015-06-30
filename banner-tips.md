@@ -36,7 +36,7 @@
 
 ### Optimal Example
 
-`/*! project.js 1.2.3  (c)2014 Author Name @license MIT */`
+`/*! project.js 1.2.3 (c)2014 Author Name  @license MIT*/`
 
 #### Alternate examples
 
@@ -45,20 +45,18 @@
 
 ### Extra tips
 * use `filename.extention` for the released minified files, & `filename.src.extention` for your pre-minified source files
-* incluse project URL if project is hard to find via web search
+* incluse project URL if project is hard to find via web/GitHub search
 
 ## Scripts
 
-### Grunt/Lo-Dash
-General banners template ([inspiration](https://github.com/helpers/banners/blob/master/index.js)):
+### Grunt
+Terse banners template:
 ```JavaScript
 uglify: {
   options: {
-    banner: '/*! <%= pkg.name %> <%= pkg.version %> <%= pkg.homepage %>' (c)' + opts.year + ' ' + opts.author + ', contributors @licence ' + opts.license + ' */\n'
+    banner: '/*! <%= pkg.name %> <%= pkg.version %> (c)2015 Tom Byrer  @licence <%= pkg.licence %>*/\n'
 ...
 ```
-
-
 
 ### Find keeper comments
 
