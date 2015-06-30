@@ -49,7 +49,7 @@
 
 ## Scripts
 
-### Grunt
+### [Grunt](https://github.com/gruntjs/grunt-contrib-uglify#readme)
 Terse banners template:
 ```JavaScript
 uglify: {
