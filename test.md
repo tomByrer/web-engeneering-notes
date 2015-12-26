@@ -4,6 +4,7 @@
 
 * [Developing for Billions (Chrome Dev Summit 2015)](https://youtu.be/9jmqsq2OQjc?list=PLNYkxOF6rcICcHeQY02XLvoGL34rZFWZn&t=797)
   + Google-Chrome [Data Saver](https://support.google.com/chrome/answer/2392284?hl=en)
+    - compatable only with insecure pages (turned off with HTTPS, incognito, service-workers)
     - proxy service compresses up to 60%
     - on for 10% globally (2015-11)
     - might turn off geolocation (?)
