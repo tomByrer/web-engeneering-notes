@@ -69,6 +69,14 @@ Engeneering
 - [Browserify](https://github.com/substack/browserify-handbook)
 - [HTML DNS prefetching](https://developer.mozilla.org/en-US/docs/Controlling_DNS_prefetching)
 
+##### HTTP/2
+
+* [clients & servers](https://github.com/http2/http2-spec/wiki/Implementations)
+
+###### HPACK (header compression)
+
+* [video](https://youtu.be/r5oT_2ndjms?list=PLNYkxOF6rcICcHeQY02XLvoGL34rZFWZn&t=820)
+
 #### Image
 
 - sprites > dataURI{1} (as of Dendroid 4.2, iOS6)
