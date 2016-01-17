@@ -13,7 +13,7 @@
 
 ### Contains
 * start with `/*!`, have `@license` inside somewhere, & end with `*/`
-	* many minifer tools will keep this text if these flags are present; universal commenting
+	* (many minifer tools will keep this text if these flags are present; universal commenting)
 * project name
 * project owner
 * short URL as needed, leave out if want to shorten (can cover project name & owner in URL)
@@ -21,7 +21,7 @@
 * copyright year
 * licence abreviation
 * If you output more than one file in a repo, then you should add in a [filename in your banner](https://github.com/ractivejs/ractive/commit/7f8ee58b1174352a1f9e622abd023fc851bad750).
-	* Reduces confusion
+	* (reduces confusion)
 
 #### Should NOT contain
 * items easlily found on the web; developers know how to search ;)
