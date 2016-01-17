@@ -4,10 +4,12 @@
 
 * Assume that the filename can be dropped:
 	* web files are often collated (Browserify, Polymer, X-Tag, [CDN](https://github.com/jsdelivr/jsdelivr#url-structure)
-* minimal info kept with each file can help:
+* Minimal info kept with each file can help:
 	* secure copyright, licence
-		* clear file for use when handed off to new programmer or buisness owner
-	* find project/author for support, upgrades
+		* help legally clear file for use 
+		* prevent difficulties when handed off to new programmer or buisness owner
+	* help establish authorship
+		* find project/author for support, upgrades
 
 ### Contains
 * start with `/*!`, have `@license` inside somewhere, & end with `*/`
