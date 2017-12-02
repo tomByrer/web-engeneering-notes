@@ -92,9 +92,12 @@ JavaScript
 ---
 + [SubStack: Use Streams](https://github.com/substack/stream-handbook#why-you-should-use-streams)
 
-### ES6
+### ES6/ES2015
 
 * [Addy's tool list](https://github.com/addyosmani/es6-tools)
+* [Remove accents/diacritics in a string in JavaScript](https://stackoverflow.com/questions/990904/remove-accents-diacritics-in-a-string-in-javascript/37511463#37511463) - `const str = "Crème Brulée";str.normalize('NFD').replace(/[\u0300-\u036f]/g, "")/.'Creme Brulee'`
+
+
 
 ### Browser Storage
 
