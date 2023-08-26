@@ -1,5 +1,5 @@
 ## bash
-
+```bash
 ### MaKe directory then CD
 #### todo: recursion
 mkcd () {
@@ -28,3 +28,4 @@ iconschrome () {
   wait
   optipng *.png
 }
+```
