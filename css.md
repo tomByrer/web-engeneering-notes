@@ -1,5 +1,17 @@
 ## CSS notes
 
+### Colors
+
+#### OKLCH
+
+ * https://colors-gen.vercel.app/
+
+### Font
+
+#### Font Size
+
+ * https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html
+
 ### CSS Grid
 
 #### Grid builders
@@ -8,4 +20,3 @@
 * https://cssgrid-generator.netlify.app/
 * https://griddy.io/
 * https://css-grid-layout-generator.pw/
-
